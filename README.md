@@ -2,10 +2,11 @@
 
 Welcome to my GitHub! I’m a Machine Learning Scientist based in Toronto, Canada, passionate about leveraging AI to solve real-world problems—especially in healthcare and diagnostics. I thrive at the intersection of deep learning, generative AI, and MLOps.
 
----
-
 ### 🌟 About Me
-- 🔭 I’m working on: ML-powered diagnostics for liver disease using ultrasound signalsat [Oncoustics](https://oncoustics.com/)
+- 🔭 I’m working on:
+  - Advancing generative AI and RAG systems for healthcare applications
+  - Building LLM-powered medical assistants like **[AgentMD](https://github.com/RaulBz/AgentMD)**
+  - ML-powered diagnostics for liver disease using ultrasound signals at [Oncoustics](http.s://oncoustics.com/)
 - 🌱 I’m exploring: Advanced LLMs, RAG systems, and quantum-inspired ML
 - 👯 I’m open to collaborating on: Medical AI, generative models, or open-source MLOps tools
 - 💬 Ask me about: TensorFlow, PyTorch, Vertex AI, or anything ML in healthcare
