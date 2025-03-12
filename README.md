@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m working on: ML-powered diagnostics for liver disease using ultrasound signals
+- 🔭 I’m working on: ML-powered diagnostics for liver disease using ultrasound signals.
 - 🌱 I’m exploring: Advanced LLMs, RAG systems, and quantum-inspired ML
 - 👯 I’m open to collaborating on: Medical AI, generative models, or open-source MLOps tools
 - 💬 Ask me about: TensorFlow, PyTorch, Vertex AI, or anything ML in healthcare
@@ -31,14 +31,10 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 ### 🚀 Featured Projects
 - **[AgentMD](https://github.com/RaulBz/AgentMD)**  
   An LLM-powered medical assistant using Google Gemini and LangGraph for doctor lookups and healthcare Q&A—built with RAG and FastAPI.
-- **[Liver Diagnostics ML](https://github.com/RaulBz)**  
+- **[Liver Diagnostics ML](https://github.com/RaulBz)(https://www.oncoustics.com))**  
   Leading ML development at Oncoustics to detect liver fibrosis with portable ultrasound, featuring CNNs and MLOps pipelines on GCP Vertex AI.
 
----
 
-### 📊 GitHub Stats
-![RaulBz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulBz&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulBz&layout=compact&theme=radical)
 
 ---
 
