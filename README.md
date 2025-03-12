@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 - 🌱 I’m exploring: Advanced LLMs, RAG systems, and quantum-inspired ML
 - 👯 I’m open to collaborating on: Medical AI, generative models, or open-source MLOps tools
 - 💬 Ask me about: TensorFlow, PyTorch, Vertex AI, or anything ML in healthcare
-- 📫 Reach me at: [raulbzga@gmail.com](mailto:raulbzga@gmail.com) | [+1 (647) 643-8507](tel:+16476438507)
 - ⚡ Fun fact: I once co-founded a startup that fused ML with enzyme design—and lived to tell the tale!
 
 ---
