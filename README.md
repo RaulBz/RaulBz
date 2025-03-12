@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 - 🌱 I’m exploring: Advanced LLMs, RAG systems, and quantum-inspired ML
 - 👯 I’m open to collaborating on: Medical AI, generative models, or open-source MLOps tools
 - 💬 Ask me about: TensorFlow, PyTorch, Vertex AI, or anything ML in healthcare
-- ⚡ Fun fact: I once co-founded a startup that fused ML with enzyme design—and lived to tell the tale!
+- ⚡ Fun fact: I co-founded [Menten AI](https://www.menten.ai) that ML to accelerate protein design—and lived to tell the tale!
 
 ---
 
