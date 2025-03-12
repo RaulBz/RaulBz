@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 ### 🚀 Featured Projects
 - **[AgentMD](https://github.com/RaulBz/AgentMD)**  
   An LLM-powered medical assistant using Google Gemini and LangGraph for doctor lookups and healthcare Q&A—built with RAG and FastAPI.
-- **[Liver Diagnostics ML](https://github.com/RaulBz)(https://www.oncoustics.com))**  
+- **[Liver Diagnostics ML](https://www.oncoustics.com)**  
   Leading ML development at Oncoustics to detect liver fibrosis with portable ultrasound, featuring CNNs and MLOps pipelines on GCP Vertex AI.
 
 
