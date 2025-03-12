@@ -1,6 +1,4 @@
-# Hey, I'm Raúl Blázquez García 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=RaulBz&label=Profile+Views&color=blueviolet)
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/4e895d34-5f33-46a2-bd74-a00fd3e65898" /># Hey, I'm Raúl Blázquez García 👋
 
 Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, Canada, passionate about leveraging AI to solve real-world problems—especially in healthcare and diagnostics. I thrive at the intersection of deep learning, generative AI, and MLOps, currently driving innovation at [Oncoustics](https://oncoustics.com/).
 
@@ -33,8 +31,6 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 - **[Liver Diagnostics ML](https://www.oncoustics.com)**  
   Leading ML development at Oncoustics to detect liver fibrosis with portable ultrasound, featuring CNNs and MLOps pipelines on GCP Vertex AI.
 
-
-
 ---
 
 ### 🌐 Connect With Me
@@ -43,5 +39,4 @@ Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, 
 [<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />](https://github.com/RaulBz)
 
 ---
-
-*“AI isn’t just about algorithms—it’s about empowering human lives through data.”*
+![Profile Views](https://komarev.com/ghpvc/?username=RaulBz&label=Profile+Views&color=blueviolet)
