@@ -1,4 +1,4 @@
-# Hey, I'm Raúl Blázquez García 👋
+# Hey, I'm Raúl
 
 Welcome to my GitHub! I’m a Lead Machine Learning Scientist based in Toronto, Canada, passionate about leveraging AI to solve real-world problems—especially in healthcare and diagnostics. I thrive at the intersection of deep learning, generative AI, and MLOps, currently driving innovation at [Oncoustics](https://oncoustics.com/).
 
