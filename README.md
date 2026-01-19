@@ -1,17 +1,37 @@
 # Hey, I'm Raúl
 
-Welcome to my GitHub! I’m a Machine Learning Scientist based in Toronto, Canada, passionate about leveraging AI to solve real-world problems—especially in healthcare and diagnostics. I thrive at the intersection of deep learning, generative AI, and MLOps.
+Machine Learning Engineer focused on **medical AI**, **LLMs**,  **Computer Vision**, and **edge-deployable deep learning**.  
+I build systems that move from research → production, especially in healthcare and diagnostics.
 
-### 🌟 About Me
-- 🔭 I’m working on:
-  - Advancing generative AI and RAG systems for healthcare applications
-  - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**
-  - Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices. **[Clarius](https://clarius.com/)**
-  - ML-powered diagnostics for liver disease using ultrasound signals at **[Oncoustics](https://oncoustics.com/)**
-- 🌱 I’m exploring: Advanced LLMs, RAG systems, and quantum-inspired ML
-- 👯 I’m open to collaborating on: Medical AI, generative models, or open-source MLOps tools
-- 💬 Ask me about: TensorFlow, PyTorch, Vertex AI, or anything ML in healthcare
-- ⚡ Fun fact: I co-founded **[Menten AI](https://www.menten.ai)**, a start-up that uses ML to accelerate protein design
+---
+
+## 🚧 I’m working on:
+  - Building a conversational LLM at **[Famaba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
+  - 
+## ⚡ Background:
+  - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**.
+  - Training Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices at **[Clarius](https://clarius.com/)**.
+  - ML-powered diagnostics for liver disease using ultrasound signals at **[Oncoustics](https://oncoustics.com/)** in colaboration with **[UHN](https://www.uhn.ca)** and **[Standford Medicine](https://med.stanford.edu)**.
+  - Co-founded **[Menten AI](https://www.menten.ai)**, a start-up that uses ML to accelerate protein design.
+    
+## 🔬 Research & Publications
+🔗 [Google Scholar](https://scholar.google.com/citations?user=LLWKKGQAAAAJ&hl=en)
+
+- **Machine learning by unitary tensor network of hierarchical tree structure** 
+  *New Journal of Physics, 2019*<br>
+  (ICFO, Vector Institute, Perimeter Institute)  
+
+- **Automated liver tissue segmentation in point-of-care ultrasound B-mode images using U-Net**
+  *AACR AI & Imaging Conference, 2021*<br>
+  (Stanford Medicine, Oncoustics)* 
+  
+- **Automated fatty liver disease detection in point-of-care ultrasound B-mode images**
+  *Journal of Medical Imaging, 2023*<br>
+  (Oncoustics, Toronto General Hospital) 
+
+## 📜 **Patents**:  
+  - *System and Method for Characterizing Ultrasound Data*  
+  - *System and Method for Characterizing Biological Tissue*
 
 ---
 
