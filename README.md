@@ -6,7 +6,7 @@ I build systems that move from research → production, especially in healthcare
 ---
 
 ### 🚀 I’m working on
-  - Building a conversational LLM at **[Famaba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
+  - Building a conversational LLM at **[Famba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
 ### 🧭 Background
   - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**.
   - Training Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices at **[Clarius](https://clarius.com/)**.
