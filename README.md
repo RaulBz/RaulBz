@@ -7,8 +7,7 @@ I build systems that move from research → production, especially in healthcare
 
 ## 🚧 I’m working on:
   - Building a conversational LLM at **[Famaba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
-  - 
-## ⚡ Background:
+## 🧑‍💼 Background:
   - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**.
   - Training Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices at **[Clarius](https://clarius.com/)**.
   - ML-powered diagnostics for liver disease using ultrasound signals at **[Oncoustics](https://oncoustics.com/)** in colaboration with **[UHN](https://www.uhn.ca)** and **[Standford Medicine](https://med.stanford.edu)**.
@@ -44,16 +43,6 @@ I build systems that move from research → production, especially in healthcare
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 <!-- Add more from your stack as needed -->
-
----
-
-### 🚀 Featured Projects
-- **[AgentMD](https://github.com/RaulBz/AgentMD)**  
-  An LLM-powered medical assistant using Google Gemini and LangGraph for doctor lookups and healthcare Q&A—built with RAG and FastAPI.
-- **[Liver Diagnostics ML](https://www.oncoustics.com)**  
-  Leading ML development at Oncoustics to detect liver fibrosis with portable ultrasound, featuring CNNs and MLOps pipelines on GCP Vertex AI.
-
----
 
 ### 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />](https://linkedin.com/in/raul-blazquez)
