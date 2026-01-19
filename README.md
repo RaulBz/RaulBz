@@ -5,15 +5,15 @@ I build systems that move from research → production, especially in healthcare
 
 ---
 
-## 🚀 I’m working on:
+### 🚀 I’m working on
   - Building a conversational LLM at **[Famaba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
-## 🧭 Background:
+### 🧭 Background
   - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**.
   - Training Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices at **[Clarius](https://clarius.com/)**.
   - ML-powered diagnostics for liver disease using ultrasound signals at **[Oncoustics](https://oncoustics.com/)** in colaboration with **[UHN](https://www.uhn.ca)** and **[Standford Medicine](https://med.stanford.edu)**.
   - Co-founded **[Menten AI](https://www.menten.ai)**, a start-up that uses ML to accelerate protein design.
     
-## 🔬 Research & Publications
+### 🔬 Research & Publications
 🔗 [Google Scholar](https://scholar.google.com/citations?user=LLWKKGQAAAAJ&hl=en)
 
 - **Machine learning by unitary tensor network of hierarchical tree structure** 
@@ -28,7 +28,7 @@ I build systems that move from research → production, especially in healthcare
   *Journal of Medical Imaging, 2023*<br>
   (Oncoustics, Toronto General Hospital) 
 
-## 🔐 **Patents**:  
+### 🔐 **Patents**  
   - *System and Method for Characterizing Ultrasound Data*  
   - *System and Method for Characterizing Biological Tissue*
 
