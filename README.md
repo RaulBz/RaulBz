@@ -8,7 +8,6 @@ I build systems that move from research → production, especially in healthcare
 ### 🚀 I’m working on
   - Building a conversational LLM at **[Famba](https://web.fambaproject.com)** a telemediceine platform for travelers in colaboration with **[Hospital Clinic](https://www.clinicbarcelona.org/en)** and **[IS Global](https://www.isglobal.org/en/)**.
 ### 🧭 Background
-  - Building LLM-powered medical assistants like **[AgentMD](https://agent-md.com)**.
   - Training Muskuloeskeletal Pathology Diagnosics ML and Tissue Segmentation ML for mobile devices at **[Clarius](https://clarius.com/)**.
   - ML-powered diagnostics for liver disease using ultrasound signals at **[Oncoustics](https://oncoustics.com/)** in colaboration with **[UHN](https://www.uhn.ca)** and **[Standford Medicine](https://med.stanford.edu)**.
   - Co-founded **[Menten AI](https://www.menten.ai)**, a start-up that uses ML to accelerate protein design.
